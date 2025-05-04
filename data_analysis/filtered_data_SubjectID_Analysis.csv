@@ -1,0 +1,335 @@
+subID,number of sessions,DX_values,Unique values
+21,1,CN,CN
+56,1,MCI,MCI
+69,3,"MCI, MCI, MCI",MCI
+150,1,Dementia,Dementia
+156,1,MCI,MCI
+303,1,CN,CN
+337,1,CN,CN
+377,1,MCI,MCI
+413,4,"CN, CN, CN, CN",CN
+454,1,MCI,MCI
+498,2,"CN, CN",CN
+555,1,Dementia,Dementia
+626,1,Dementia,Dementia
+729,1,Dementia,Dementia
+731,1,CN,CN
+734,1,CN,CN
+896,1,Dementia,Dementia
+908,1,MCI,MCI
+1074,1,Dementia,Dementia
+1155,3,"MCI, MCI, MCI",MCI
+1186,1,Dementia,Dementia
+1261,4,"MCI, MCI, MCI, MCI",MCI
+1280,4,"CN, CN, CN, CN",CN
+2010,2,"CN, CN",CN
+2018,2,"CN, CN",CN
+2043,1,MCI,MCI
+2073,4,"CN, CN, CN, CN",CN
+2121,1,MCI,MCI
+2180,2,"MCI, MCI",MCI
+2233,4,"CN, CN, CN, CN",CN
+2301,1,CN,CN
+2304,1,MCI,MCI
+2333,1,MCI,MCI
+2373,3,"Dementia, Dementia, Dementia",Dementia
+2379,2,"CN, CN",CN
+2380,1,Dementia,Dementia
+2389,2,"CN, CN",CN
+2391,3,"Dementia, Dementia, Dementia",Dementia
+2394,2,"CN, CN",CN
+2403,3,"Dementia, Dementia, Dementia",Dementia
+4003,1,CN,CN
+4021,1,CN,CN
+4028,1,CN,CN
+4043,1,CN,CN
+4076,1,MCI,MCI
+4094,2,"Dementia, Dementia",Dementia
+4100,1,MCI,MCI
+4105,1,MCI,MCI
+4114,1,Dementia,Dementia
+4119,1,CN,CN
+4121,1,MCI,MCI
+4143,1,Dementia,Dementia
+4177,1,CN,CN
+4179,1,MCI,MCI
+4184,1,CN,CN
+4187,1,CN,CN
+4188,2,"Dementia, Dementia",Dementia
+4189,1,Dementia,Dementia
+4200,1,CN,CN
+4212,1,CN,CN
+4213,2,"CN, CN",CN
+4219,1,MCI,MCI
+4224,1,CN,CN
+4225,2,"Dementia, Dementia",Dementia
+4229,3,"MCI, MCI, MCI",MCI
+4234,1,MCI,MCI
+4237,1,MCI,MCI
+4250,1,Dementia,Dementia
+4251,1,MCI,MCI
+4262,3,"Dementia, Dementia, Dementia",Dementia
+4269,2,"CN, CN",CN
+4270,2,"MCI, MCI",MCI
+4278,1,MCI,MCI
+4288,1,CN,CN
+4292,1,CN,CN
+4293,1,Dementia,Dementia
+4294,4,"Dementia, Dementia, Dementia, Dementia",Dementia
+4299,1,MCI,MCI
+4302,1,MCI,MCI
+4308,1,CN,CN
+4313,3,"CN, CN, CN",CN
+4343,4,"CN, CN, CN, CN",CN
+4350,1,CN,CN
+4352,2,"CN, CN",CN
+4356,1,MCI,MCI
+4365,1,Dementia,Dementia
+4376,1,CN,CN
+4387,1,CN,CN
+4395,1,CN,CN
+4399,2,"CN, CN",CN
+4400,2,"MCI, MCI",MCI
+4405,4,"MCI, MCI, MCI, MCI",MCI
+4408,1,MCI,MCI
+4410,1,CN,CN
+4414,1,Dementia,Dementia
+4415,4,"Dementia, Dementia, Dementia, Dementia",Dementia
+4417,2,"MCI, MCI",MCI
+4422,1,Dementia,Dementia
+4427,1,CN,CN
+4428,1,CN,CN
+4430,1,Dementia,Dementia
+4433,1,CN,CN
+4434,1,MCI,MCI
+4441,1,CN,CN
+4446,1,MCI,MCI
+4447,2,"MCI, MCI",MCI
+4453,1,CN,CN
+4464,1,CN,CN
+4468,2,"MCI, MCI",MCI
+4469,2,"CN, CN",CN
+4473,3,"MCI, MCI, MCI",MCI
+4482,2,"CN, CN",CN
+4483,1,CN,CN
+4489,1,MCI,MCI
+4491,1,CN,CN
+4503,1,CN,CN
+4507,1,Dementia,Dementia
+4512,1,MCI,MCI
+4517,1,MCI,MCI
+4520,1,CN,CN
+4521,2,"Dementia, Dementia",Dementia
+4531,1,MCI,MCI
+4536,1,MCI,MCI
+4538,1,Dementia,Dementia
+4542,3,"Dementia, Dementia, Dementia",Dementia
+4547,1,Dementia,Dementia
+4556,2,"CN, CN",CN
+4579,1,MCI,MCI
+4580,1,CN,CN
+4589,1,Dementia,Dementia
+4598,1,CN,CN
+4605,1,MCI,MCI
+4620,2,"CN, CN",CN
+4637,1,Dementia,Dementia
+4641,2,"MCI, MCI",MCI
+4643,4,"CN, CN, CN, CN",CN
+4644,1,CN,CN
+4654,4,"MCI, MCI, MCI, MCI",MCI
+4660,2,"Dementia, Dementia",Dementia
+4674,1,MCI,MCI
+4706,2,"MCI, MCI",MCI
+4713,1,CN,CN
+4721,2,"Dementia, Dementia",Dementia
+4723,1,MCI,MCI
+4730,1,Dementia,Dementia
+4742,1,MCI,MCI
+4746,1,MCI,MCI
+4767,1,CN,CN
+4785,1,MCI,MCI
+4799,3,"CN, CN, CN",CN
+4817,1,MCI,MCI
+4827,1,Dementia,Dementia
+4835,3,"CN, CN, CN",CN
+4862,1,Dementia,Dementia
+4874,1,CN,CN
+4883,2,"CN, CN",CN
+4891,1,Dementia,Dementia
+4893,1,Dementia,Dementia
+4900,1,CN,CN
+4902,1,Dementia,Dementia
+4925,2,"MCI, MCI",MCI
+4947,1,Dementia,Dementia
+4951,2,"CN, CN",CN
+4960,2,"CN, CN",CN
+4971,1,Dementia,Dementia
+4974,1,Dementia,Dementia
+4982,1,Dementia,Dementia
+4984,1,Dementia,Dementia
+4990,1,Dementia,Dementia
+4997,1,Dementia,Dementia
+5006,1,Dementia,Dementia
+5018,1,Dementia,Dementia
+5059,1,Dementia,Dementia
+5075,1,CN,CN
+5091,3,"CN, CN, CN",CN
+5096,2,"MCI, MCI",MCI
+5102,2,"CN, CN",CN
+5106,1,Dementia,Dementia
+5113,1,CN,CN
+5118,1,CN,CN
+5126,1,CN,CN
+5130,1,CN,CN
+5132,2,"MCI, MCI",MCI
+5142,2,"CN, CN",CN
+5157,3,"CN, CN, CN",CN
+5171,1,CN,CN
+5175,3,"CN, CN, CN",CN
+5178,3,"CN, CN, CN",CN
+5185,1,CN,CN
+5214,1,MCI,MCI
+5222,1,CN,CN
+5228,2,"CN, CN",CN
+5230,3,"CN, CN, CN",CN
+5231,1,Dementia,Dementia
+5236,1,CN,CN
+5237,1,Dementia,Dementia
+5243,1,CN,CN
+5253,1,MCI,MCI
+5258,3,"MCI, MCI, MCI",MCI
+5259,1,CN,CN
+5265,2,"Dementia, Dementia",Dementia
+5277,1,MCI,MCI
+5280,2,"CN, CN",CN
+5282,1,MCI,MCI
+5292,1,CN,CN
+6007,1,CN,CN
+6008,2,"CN, CN",CN
+6009,1,CN,CN
+6014,1,CN,CN
+6016,2,"CN, CN",CN
+6025,2,"CN, CN",CN
+6030,1,CN,CN
+6038,1,CN,CN
+6039,1,Dementia,Dementia
+6049,1,CN,CN
+6053,1,CN,CN
+6057,1,CN,CN
+6059,1,CN,CN
+6062,1,CN,CN
+6063,1,CN,CN
+6065,1,CN,CN
+6066,1,CN,CN
+6067,1,CN,CN
+6073,1,Dementia,Dementia
+6082,1,CN,CN
+6085,1,CN,CN
+6097,2,"CN, CN",CN
+6103,1,CN,CN
+6113,1,CN,CN
+6146,1,CN,CN
+6175,1,CN,CN
+6179,1,Dementia,Dementia
+6185,1,CN,CN
+6188,1,CN,CN
+6189,1,MCI,MCI
+6200,2,"CN, CN",CN
+6228,2,"CN, CN",CN
+6231,1,Dementia,Dementia
+6233,1,CN,CN
+6237,1,CN,CN
+6244,1,CN,CN
+6251,1,CN,CN
+6256,1,CN,CN
+6258,1,MCI,MCI
+6259,1,CN,CN
+6260,1,CN,CN
+6264,1,Dementia,Dementia
+6268,1,MCI,MCI
+6274,1,MCI,MCI
+6283,1,CN,CN
+6288,1,CN,CN
+6303,1,Dementia,Dementia
+6304,1,CN,CN
+6306,1,CN,CN
+6307,1,CN,CN
+6309,1,CN,CN
+6312,1,MCI,MCI
+6314,1,CN,CN
+6316,1,CN,CN
+6321,1,CN,CN
+6328,1,CN,CN
+6335,1,CN,CN
+6336,1,MCI,MCI
+6367,1,CN,CN
+6396,2,"CN, CN",CN
+6404,1,CN,CN
+6413,1,CN,CN
+6426,1,MCI,MCI
+6427,1,MCI,MCI
+6429,1,CN,CN
+6432,1,MCI,MCI
+6450,1,MCI,MCI
+6452,2,"CN, CN",CN
+6456,1,CN,CN
+6457,2,"CN, CN",CN
+6459,2,"CN, CN",CN
+6462,2,"CN, CN",CN
+6465,1,CN,CN
+6466,1,CN,CN
+6467,1,Dementia,Dementia
+6476,2,"CN, CN",CN
+6480,1,MCI,MCI
+6487,1,CN,CN
+6488,1,CN,CN
+6498,1,MCI,MCI
+6503,1,MCI,MCI
+6524,2,"CN, CN",CN
+6551,1,CN,CN
+6592,1,Dementia,Dementia
+6606,1,MCI,MCI
+6621,1,CN,CN
+6629,1,CN,CN
+6632,2,"Dementia, Dementia",Dementia
+6641,1,MCI,MCI
+6644,1,CN,CN
+6652,1,CN,CN
+6660,1,Dementia,Dementia
+6690,1,Dementia,Dementia
+6691,1,MCI,MCI
+6695,1,MCI,MCI
+6704,1,CN,CN
+6719,1,MCI,MCI
+6730,1,CN,CN
+6739,1,CN,CN
+6742,1,MCI,MCI
+6744,1,MCI,MCI
+6751,1,CN,CN
+6755,1,Dementia,Dementia
+6760,1,MCI,MCI
+6763,1,Dementia,Dementia
+6810,1,MCI,MCI
+6813,1,CN,CN
+6830,1,MCI,MCI
+6833,1,Dementia,Dementia
+6843,1,Dementia,Dementia
+6848,1,MCI,MCI
+6852,1,Dementia,Dementia
+6871,1,CN,CN
+6878,1,MCI,MCI
+6885,1,MCI,MCI
+6887,1,MCI,MCI
+6890,1,MCI,MCI
+6894,1,MCI,MCI
+6896,1,CN,CN
+6897,1,MCI,MCI
+6910,1,CN,CN
+6914,1,CN,CN
+6916,1,MCI,MCI
+6917,1,CN,CN
+6918,1,CN,CN
+6924,1,CN,CN
+6940,1,CN,CN
+6947,1,MCI,MCI
+6954,1,MCI,MCI
