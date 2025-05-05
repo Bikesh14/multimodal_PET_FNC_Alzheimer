@@ -20,5 +20,5 @@ This repository contains code and data related to the analysis and classificatio
   Jupyter notebook for model training, evaluation, and visualization using the extracted features.
 
 ## Acknowledgement
-
 Data used in this study were obtained from the **Alzheimer’s Disease Neuroimaging Initiative (ADNI)** database.
+ 
